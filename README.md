@@ -30,4 +30,4 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 <img src ='uber data architecture.jpeg'>
 
 ## Architecture
-<img  src ='uber pipeline architecture.jpeg'>
+<img  src ='uber pipeline architecture.jpg'>

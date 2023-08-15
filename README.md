@@ -27,7 +27,7 @@ Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
-<img = src'uber data architecture'>
+<img = src'uber data architecture.jpeg'>
 
 ## Architecture
-<img = src'uber pipeline architecture'>
+<img = src'uber pipeline architecture.jpeg'>
